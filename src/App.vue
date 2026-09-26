@@ -3,9 +3,9 @@ import { ref } from 'vue'
 import HelloWorld from './components/HelloWorld.vue'
 import Navbar from './components/Navbar.vue';
 import SimpleArray from './components/SimpleArray.vue';
-import './bases/functions.ts'
-import './bases/deses-obj.ts'
-import './bases/deses-array.ts'
+import './bases/functions'
+import './bases/deses-obj'
+import './bases/deses-array'
 
 </script>
 

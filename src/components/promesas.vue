@@ -3,7 +3,7 @@
 </template>
 
 <script setup lang="ts">
-import '../bases/promesas.ts'
+import '../bases/promesas'
 </script>
 
 <style scope>
